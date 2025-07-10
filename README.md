@@ -148,6 +148,9 @@
 <a href="https://github.com/aziz16abdellaoui">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://abdellewiiazz.blogspot.com">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
+</a>
 <a href="https://discord.com/users/616325604874256384">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
@@ -170,10 +173,6 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aziz16abdellaoui/profiel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <!-- Working fallback snake animation -->
-  <br><br>
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
