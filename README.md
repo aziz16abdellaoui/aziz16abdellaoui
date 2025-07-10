@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avilon!+%F0%9F%91%8B;Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+%26+Growing;Building+Amazing+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohamed+Aziz!+%F0%9F%91%8B;LTIC+Student+at+ENET'Com;IT+%26+Telecommunications;Passionate+Problem+Solver;Building+Amazing+Projects" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,29 +10,30 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **Cloud Technologies & DevOps**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Web Development, APIs, and System Design**
-- 📫 How to reach me: **avilon.dev@example.com**
-- ⚡ Fun fact: **I debug code faster when listening to music! 🎵**
-- 🎯 Goal: **Contributing to projects that make a positive impact**
+- 🎓 **LTIC Student** at **ENET'Com Sfax** (2022 – Present)
+- 🔭 I'm currently working on **AI projects and web development**
+- 🌱 I'm currently learning **Machine Learning & Computer Vision**
+- 👯 I'm looking to collaborate on **innovative tech projects**
+- 💬 Ask me about **Python, AI, OpenCV, and Web Development**
+- 📫 How to reach me: **azizabdellewi@gmail.com**
+- ⚡ Fun fact: **I love participating in hackathons and tech competitions!**
+- 🎯 Goal: **Contributing to cutting-edge technology and innovation**
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,c" />
 
 ### 🚀 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,nextjs,vue,angular" />
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,django,flask,bootstrap" />
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws,gcp,azure,redis" />
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,figma,postman" />
+### 🛠️ Specialized Technologies
+<img src="https://skillicons.dev/icons?i=docker,figma,photoshop" />
 
 </div>
 
@@ -67,22 +68,21 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aziz16abdellaoui&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziz16abdellaoui&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziz16abdellaoui&theme=github_dark&utcOffset=1" alt="Productive Time" />
 </div>
 
 </details>
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Leadership
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aziz16abdellaoui&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  
-[![An image of @aziz16abdellaoui's Holopin badges](https://holopin.me/aziz16abdellaoui)](https://holopin.io/@aziz16abdellaoui)
-
-</div>
+### 🎖️ Leadership Experience
+- **Vice-Président** at **NATEG ENET'COM** (Jan 2023 – Jan 2024)
+- Organized tech events, workshops, competitions, and STEM initiatives
+- Led teams in hackathons and technical competitions
 
 ## 🔥 Featured Projects
 
@@ -90,61 +90,75 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|-----------------|---------------|----------|
-| **E-Commerce Platform** | Full-stack web app with payment integration | React, Node.js, MongoDB, Stripe | [Demo](https://your-demo.com) • [Code](https://github.com/aziz16abdellaoui/ecommerce) |
-| **Task Management API** | RESTful API with authentication & real-time updates | Express, PostgreSQL, Socket.io, JWT | [API](https://your-api.com) • [Code](https://github.com/aziz16abdellaoui/task-api) |
-| **Mobile Weather App** | Cross-platform app with location services | React Native, TypeScript, Weather API | [App Store](https://apps.apple.com) • [Code](https://github.com/aziz16abdellaoui/weather-app) |
+| **Gestionnaire de rendez-vous** | Medical appointment scheduling system | Python, GUI Development | [Code](https://github.com/aziz16abdellaoui/appointment-manager) |
+| **Simulation de course F1** | F1 Racing simulation with AI and neural networks | Python, Pyglet, Neural Networks | [Code](https://github.com/aziz16abdellaoui/f1-simulation) |
+| **Détection d'objets temps réel** | Real-time object detection system | OpenCV, SSD MobileNet, Python | [Code](https://github.com/aziz16abdellaoui/object-detection) |
+| **Portfolio Personnel** | Personal portfolio showcasing projects | HTML, CSS, JavaScript | [Live](https://aziz16abdellaoui.github.io/portfolio) • [Code](https://github.com/aziz16abdellaoui/portfolio) |
 
 </div>
 
-### � Quick Project Overview
+### 📚 Quick Project Overview
 
 <div align="center">
-  <a href="https://github.com/aziz16abdellaoui/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=project-1&theme=algolia" alt="Project 1" />
+  <a href="https://github.com/aziz16abdellaoui/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=portfolio&theme=algolia" alt="Portfolio" />
   </a>
-  <a href="https://github.com/aziz16abdellaoui/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=project-2&theme=algolia" alt="Project 2" />
+  <a href="https://github.com/aziz16abdellaoui/object-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=object-detection&theme=algolia" alt="Object Detection" />
   </a>
 </div>
 
-## 📝 Latest Blog Posts
+## 💼 Professional Experience
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](#)
-- [Blog Post Title 2](#)
-- [Blog Post Title 3](#)
-<!-- BLOG-POST-LIST:END -->
+### 🏢 AGIL Tunisie - IT Intern (Jul–Aug 2023)
+- **Infrastructure Deployment**: Set up and configured IT infrastructure
+- **Cybersecurity**: Implemented security protocols and best practices
+- **Technical Support**: Provided troubleshooting and system maintenance
+
+## 🎓 Education
+
+### 🏫 ENET'Com Sfax
+**Licence en Informatique et Télécommunications (LTIC)** | 2022 – Present
+- Focus on Computer Science, Telecommunications, and Information Technology
+- Active member in tech clubs and competitions
+
+### 🏫 Lycée El Wafa, Ariana
+**Baccalauréat en Informatique** | 2021 – 2022
+- Specialized in Computer Science
+
+## 🌍 Languages
+
+- 🇹🇳 **Arabic** - Native
+- 🇬🇧 **English** - C1 (Advanced)
+- 🇫🇷 **French** - Beginner
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-**Feel free to reach out if you want to collaborate, have questions, or just want to chat about tech!**
+**Feel free to reach out for collaboration, tech discussions, or project opportunities!**
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/abdellaoui-mouhamed-aziz">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:avilon.dev@example.com">
+<a href="mailto:azizabdellewi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://github.com/aziz16abdellaoui">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://discord.gg/your-discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="tel:+21652881966">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </a>
 
 </div>
 
 ## 🎯 Current Focus
 
-- 🔍 **Exploring:** Microservices Architecture & Container Orchestration
-- 📚 **Learning:** Advanced React Patterns & Performance Optimization
-- 🚀 **Building:** Personal project using Next.js 13 and TypeScript
-- 🤝 **Contributing:** Open source projects in the JavaScript ecosystem
+- 🔍 **Exploring:** Advanced Machine Learning and Computer Vision
+- 📚 **Learning:** Deep Learning frameworks and AI applications
+- 🚀 **Building:** Innovative projects combining AI and web technologies
+- 🤝 **Contributing:** Open source projects and tech community initiatives
 
 ## 💭 Daily Dev Quote
 
@@ -173,8 +187,8 @@
 
 <div align="center">
   
-  **"The best error message is the one that never shows up." - Thomas Fuchs**
+  **"Innovation distinguishes between a leader and a follower." - Steve Jobs**
   
-  *Thank you for visiting my profile! Have a great day! 😊*
+  *Thank you for visiting my profile! Let's build something amazing together! 🚀*
 
 </div>
