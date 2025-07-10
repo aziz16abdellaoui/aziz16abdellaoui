@@ -148,9 +148,6 @@
 <a href="https://github.com/aziz16abdellaoui">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://aziz16abdellaoui.github.io/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-</a>
 <a href="https://discord.com/users/616325604874256384">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
