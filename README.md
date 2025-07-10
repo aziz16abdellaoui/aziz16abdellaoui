@@ -138,7 +138,8 @@
 
 **Feel free to reach out for collaboration, tech discussions, or project opportunities!**
 
-<a href="https://linkedin.com/in/abdellaoui-mouhamed-aziz">
+
+<a href="https://www.linkedin.com/in/abdellaoui-mouhamed-aziz/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:azizabdellewi@gmail.com">
@@ -147,8 +148,11 @@
 <a href="https://github.com/aziz16abdellaoui">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="tel:+21652881966">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+<a href="https://aziz16abdellaoui.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://discord.com/users/616325604874256384">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
