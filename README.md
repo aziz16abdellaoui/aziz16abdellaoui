@@ -48,7 +48,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz16abdellaoui&theme=dark&background=0d1117&border=0d1117&stroke=0E4B99&ring=0E4B99&fire=0E4B99&currStreakLabel=0E4B99" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Activity
+## 🏆 Achievements & Leadership
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aziz16abdellaoui&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+### 🎖️ Leadership Experience
+- **Vice-Président** at **NATEG ENET'COM** (Jan 2023 – Jan 2024)
+- Organized tech events, workshops, competitions, and STEM initiatives
+- Led teams in hackathons and technical competitions
+
+## � Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aziz16abdellaoui&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
@@ -73,18 +84,7 @@
 
 </details>
 
-## 🏆 Achievements & Leadership
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aziz16abdellaoui&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-### 🎖️ Leadership Experience
-- **Vice-Président** at **NATEG ENET'COM** (Jan 2023 – Jan 2024)
-- Organized tech events, workshops, competitions, and STEM initiatives
-- Led teams in hackathons and technical competitions
-
-## 🔥 Featured Projects
+## �🔥 Featured Projects
 
 <div align="center">
 
