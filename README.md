@@ -39,35 +39,35 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aziz16abdellaoui&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aziz16abdellaoui&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&border=0d1117&stroke=0E4B99&ring=0E4B99&fire=0E4B99&currStreakLabel=0E4B99" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz16abdellaoui&theme=dark&background=0d1117&border=0d1117&stroke=0E4B99&ring=0E4B99&fire=0E4B99&currStreakLabel=0E4B99" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aziz16abdellaoui&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziz16abdellaoui&theme=github_dark" alt="Profile Summary" />
 </div>
 
 <details>
 <summary>📊 Additional Statistics</summary>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziz16abdellaoui&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aziz16abdellaoui&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aziz16abdellaoui&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziz16abdellaoui&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 </details>
@@ -75,12 +75,12 @@
 ## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aziz16abdellaoui&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   
-[![An image of @YOUR_USERNAME's Holopin badges](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+[![An image of @aziz16abdellaoui's Holopin badges](https://holopin.me/aziz16abdellaoui)](https://holopin.io/@aziz16abdellaoui)
 
 </div>
 
@@ -90,20 +90,20 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|-----------------|---------------|----------|
-| **E-Commerce Platform** | Full-stack web app with payment integration | React, Node.js, MongoDB, Stripe | [Demo](https://your-demo.com) • [Code](https://github.com/YOUR_USERNAME/ecommerce) |
-| **Task Management API** | RESTful API with authentication & real-time updates | Express, PostgreSQL, Socket.io, JWT | [API](https://your-api.com) • [Code](https://github.com/YOUR_USERNAME/task-api) |
-| **Mobile Weather App** | Cross-platform app with location services | React Native, TypeScript, Weather API | [App Store](https://apps.apple.com) • [Code](https://github.com/YOUR_USERNAME/weather-app) |
+| **E-Commerce Platform** | Full-stack web app with payment integration | React, Node.js, MongoDB, Stripe | [Demo](https://your-demo.com) • [Code](https://github.com/aziz16abdellaoui/ecommerce) |
+| **Task Management API** | RESTful API with authentication & real-time updates | Express, PostgreSQL, Socket.io, JWT | [API](https://your-api.com) • [Code](https://github.com/aziz16abdellaoui/task-api) |
+| **Mobile Weather App** | Cross-platform app with location services | React Native, TypeScript, Weather API | [App Store](https://apps.apple.com) • [Code](https://github.com/aziz16abdellaoui/weather-app) |
 
 </div>
 
 ### � Quick Project Overview
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-1&theme=algolia" alt="Project 1" />
+  <a href="https://github.com/aziz16abdellaoui/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=project-1&theme=algolia" alt="Project 1" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=algolia" alt="Project 2" />
+  <a href="https://github.com/aziz16abdellaoui/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz16abdellaoui&repo=project-2&theme=algolia" alt="Project 2" />
   </a>
 </div>
 
@@ -155,15 +155,15 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aziz16abdellaoui/aziz16abdellaoui/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=aziz16abdellaoui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aziz16abdellaoui?label=Followers&style=social" alt="GitHub Badge">
   
 </div>
 
