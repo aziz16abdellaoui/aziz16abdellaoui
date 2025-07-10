@@ -155,7 +155,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aziz16abdellaoui/aziz16abdellaoui/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aziz16abdellaoui/profiel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <!-- Working fallback snake animation -->
   <br><br>
